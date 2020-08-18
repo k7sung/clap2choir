@@ -3,7 +3,7 @@ Easily create a virtual choir video in Google Drive and run it in Google Colab.
 
 
 ## Instruction for choir members
-1. Start recording the video first; **(in horizontal orientation)**
+1. Start recording the video first;
 2. Start playing the master track on the headphone, wait for the metronome ticks;
 3. Listen for the first 4 ticks, and clap along on the 5-8th ticks. The claps should be crisp and clear. They're the markers for the script relies on to synchronize all the recordings together.
 4. Sing along with the music in the master track.
